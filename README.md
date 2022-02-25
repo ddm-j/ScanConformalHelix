@@ -5,7 +5,7 @@
 
 **Installation**
 
-1. Best to install the Anaconda Distribution of Python
+1. Best to install the [Anaconda Distribution](https://www.anaconda.com/) of Python
 2. Create a new python 3.6 virtual environment for the project from Anaconda Prompt Command Line: `conda create -n ConformalHelix python=3.6`
 3. Activate the new environment: `conda activate ConformalHelix`
 4. Move to the directory you want to install the project: `cd <your_directory>`
